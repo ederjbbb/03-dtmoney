@@ -1,0 +1,68 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Devenvolvimento de site",
+      "type": "income",
+      "category": "vendas",
+      "price": 14000,
+      "createdAt": "2022-07-29T19:00:00.505Z"
+    },
+    {
+      "id": 2,
+      "description": "Mercado",
+      "type": "outcome",
+      "category": "alimentacao",
+      "price": 2000,
+      "createdAt": "2022-07-29T09:00:00.505Z"
+    },
+    {
+      "id": 3,
+      "description": "Mercado",
+      "type": "outcome",
+      "category": "alimentacao",
+      "price": 2000,
+      "createdAt": "2022-01-29T09:00:00.505Z"
+    },
+    {
+      "id": 4,
+      "description": "Mercado",
+      "type": "outcome",
+      "category": "alimentacao",
+      "price": 5000,
+      "createdAt": "2022-09-29T09:00:00.505Z"
+    },
+    {
+      "description": "asdf",
+      "price": 33,
+      "category": "asdf",
+      "type": "income",
+      "createdAt": "2023-05-05T16:20:10.077Z",
+      "id": 5
+    },
+    {
+      "description": "test",
+      "type": "income",
+      "price": 1,
+      "category": "test",
+      "createdAt": "2023-05-05T16:32:20.235Z",
+      "id": 6
+    },
+    {
+      "description": "test2",
+      "type": "outcome",
+      "price": 1,
+      "category": "test2",
+      "createdAt": "2023-05-05T16:45:34.419Z",
+      "id": 7
+    },
+    {
+      "description": "test3",
+      "type": "income",
+      "price": 44,
+      "category": "test3",
+      "createdAt": "2023-05-05T16:50:06.053Z",
+      "id": 8
+    }
+  ]
+}
